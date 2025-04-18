@@ -1,0 +1,32 @@
+Date,Description,Amount,Month,Year,Day,Category
+2023-01-05,Grocery Store,-125.5,2023-01,2023,5,groceries
+2023-01-07,Amazon Purchase,-65.99,2023-01,2023,7,shopping
+2023-01-10,Coffee Shop,-4.75,2023-01,2023,10,dining
+2023-01-12,Salary Deposit,2500.0,2023-01,2023,12,income
+2023-01-15,Rent Payment,-1200.0,2023-01,2023,15,housing
+2023-01-18,Gas Station,-45.75,2023-01,2023,18,transportation
+2023-01-20,Restaurant Dinner,-78.25,2023-01,2023,20,dining
+2023-01-22,Utility Bill,-95.5,2023-01,2023,22,utilities
+2023-01-25,Movie Theater,-24.0,2023-01,2023,25,entertainment
+2023-01-28,Clothing Store,-89.99,2023-01,2023,28,shopping
+2023-02-02,Grocery Store,-132.5,2023-02,2023,2,groceries
+2023-02-05,Uber Ride,-18.75,2023-02,2023,5,transportation
+2023-02-08,Coffee Shop,-5.25,2023-02,2023,8,dining
+2023-02-10,Salary Deposit,2500.0,2023-02,2023,10,income
+2023-02-12,Rent Payment,-1200.0,2023-02,2023,12,housing
+2023-02-15,Gas Station,-48.5,2023-02,2023,15,transportation
+2023-02-18,Phone Bill,-65.0,2023-02,2023,18,utilities
+2023-02-20,Restaurant Dinner,-92.75,2023-02,2023,20,dining
+2023-02-22,Online Subscription,-14.99,2023-02,2023,22,subscription
+2023-02-25,Healthcare Co-pay,-35.0,2023-02,2023,25,transportation
+2023-03-01,Grocery Store,-145.75,2023-03,2023,1,groceries
+2023-03-03,Amazon Purchase,-129.99,2023-03,2023,3,shopping
+2023-03-05,Coffee Shop,-4.25,2023-03,2023,5,dining
+2023-03-10,Salary Deposit,2700.0,2023-03,2023,10,income
+2023-03-12,Rent Payment,-1200.0,2023-03,2023,12,housing
+2023-03-15,Gas Station,-51.25,2023-03,2023,15,transportation
+2023-03-18,Restaurant Dinner,-82.5,2023-03,2023,18,dining
+2023-03-20,Electricity Bill,-110.25,2023-03,2023,20,utilities
+2023-03-22,Gym Membership,-49.99,2023-03,2023,22,health
+2023-03-25,Home Improvement Store,-175.5,2023-03,2023,25,housing
+2023-03-28,Grocery Store,-115.75,2023-03,2023,28,groceries

@@ -1,0 +1,17 @@
+{
+    "groceries": ["grocery", "supermarket", "food", "market", "walmart", "trader", "whole foods", "safeway", "kroger", "aldi", "costco"],
+    "dining": ["restaurant", "cafe", "coffee", "starbucks", "mcdonald", "burger", "pizza", "dining", "chipotle", "subway", "taco", "doordash", "uber eats", "grubhub"],
+    "transportation": ["gas", "fuel", "uber", "lyft", "taxi", "bus", "train", "transit", "transport", "parking", "toll", "car", "auto", "vehicle"],
+    "utilities": ["electric", "water", "gas bill", "internet", "wifi", "phone", "utility", "bill", "service"],
+    "housing": ["rent", "mortgage", "apartment", "housing", "maintenance", "repair", "home", "property"],
+    "entertainment": ["movie", "theatre", "concert", "event", "ticket", "netflix", "hulu", "spotify", "disney", "amazon prime", "entertainment", "game"],
+    "shopping": ["amazon", "ebay", "etsy", "target", "purchase", "store", "mall", "shop", "retail", "clothing", "apparel", "shoe"],
+    "health": ["doctor", "medical", "pharmacy", "healthcare", "hospital", "clinic", "dental", "medication", "fitness", "gym", "health"],
+    "education": ["tuition", "school", "college", "university", "course", "class", "education", "book", "learning", "student"],
+    "travel": ["hotel", "flight", "airline", "airbnb", "booking", "vacation", "travel", "trip", "cruise"],
+    "subscription": ["subscription", "membership", "recurring", "monthly"],
+    "income": ["salary", "deposit", "income", "payment received", "refund", "tax return", "dividend", "interest"],
+    "insurance": ["insurance", "premium", "coverage", "policy"],
+    "investment": ["investment", "stock", "bond", "mutual fund", "etf", "brokerage", "wealth", "retirement"],
+    "other": []
+}
